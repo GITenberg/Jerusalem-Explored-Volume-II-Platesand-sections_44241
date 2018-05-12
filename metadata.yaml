@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '41242'
     url: http://www.gutenberg.org/2009/agents/41242
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44241#Jerusalem-Explored-Volume-II-Platesand-sections
 gutenberg_issued: '2013-11-21'
 gutenberg_type: Text
 identifiers:

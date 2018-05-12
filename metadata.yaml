@@ -1,0 +1,35 @@
+_repo: Jerusalem-Explored-Volume-II-Platesand-sections_44241
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bonney, T. G. (Thomas George)
+    alias: Bonney, Thomas George
+    birthdate: 1833
+    deathdate: 1923
+    gutenberg_agent_id: '37055'
+    url: http://www.gutenberg.org/2009/agents/37055
+covers:
+- cover_type: archival
+  image_path: 44241-h/images/cover.png
+creator:
+  author:
+    agent_name: Pierotti, Ermete
+    gutenberg_agent_id: '41242'
+    url: http://www.gutenberg.org/2009/agents/41242
+description: ''
+gutenberg_issued: '2013-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Jerusalem -- Antiquities'
+- !lcsh 'Jerusalem -- Description and travel'
+title: "Jerusalem Explored, Volume 2—Plates\r\nBeing a Description of the Ancient\
+  \ and Modern City, with Numerous Illustrations Consisting of Views, Ground Plans\
+  \ and Sections"
+url: http://www.gutenberg.org/ebooks/44241
